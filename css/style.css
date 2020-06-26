@@ -1,0 +1,16 @@
+.header, .hero, .body, .bar, .footer{
+	background-color:#FFAEC9;
+	padding: 10px 0;
+	margin-bottom: 10px;
+}
+
+.box{
+	height: 100px;
+	background-color:#99D9EA ;
+	margin-bottom: 10px;
+	border: 1px solid green;
+}
+
+.red{
+	background-color:red;
+}
